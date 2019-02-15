@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Skills:** _Android, Java, HTML, CSS, JavaScript, SQL.. & Many More._
